@@ -3,3 +3,5 @@
 -https://powerbidocs.com/2019/11/28/power-bi-sample-data-set-for-practice/
 Transform the data with Power BI
 Start Vizualization.
+Dashboard
+file:///D:/Work/Power%20BI/GSuStore%20img.png
