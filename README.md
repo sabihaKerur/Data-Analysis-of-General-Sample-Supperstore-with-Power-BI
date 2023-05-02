@@ -1,4 +1,4 @@
-# General-Sample-Supperstore ( with Power BI)
+# General-Sample-Superstore ( with Power BI)
 
 Dashboard
 
